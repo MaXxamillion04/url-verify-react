@@ -3,8 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run this locally, clone the repo to somewhere local.
 
 On Linux:
+
   cd into repo
+  
   sudo npm install
+  
   sudo npm start
 
 
