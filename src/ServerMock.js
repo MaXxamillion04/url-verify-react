@@ -10,7 +10,7 @@ async function APIEndpoint(myUrl) {
   let res = "";
   let exists = false;
 
-    let block = await makeItWait(1200);
+    let block = await makeItWait(600);
     const URL = url.parse(myUrl);
 
     let dirStruct = ["/hello", "/about", "/index", "/images", "/jams"];
